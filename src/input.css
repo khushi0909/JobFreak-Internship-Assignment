@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.active{
+    @apply bg-slate-950 text-slate-400 p-3 rounded-full font-bold;
+}
